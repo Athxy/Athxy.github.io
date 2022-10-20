@@ -1,0 +1,29 @@
+body {
+background-color: #2f313a;
+}
+.box1 {
+    margin: 20px 20px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, .5);
+    background-color: #52565e;
+    border-radius: 20px;
+    height: 650px ;
+}
+.container {
+    margin: 25px;
+}
+.box2 {
+    flex: 1;
+    background-color: #52565e;
+    border-radius: 20px;
+    height: 650px;
+    width: 250px;
+    margin: 40px 40px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, .5);
+    color: aliceblue;
+    }
+ 
+.shell{
+    width: 90%;
+    height: 600px;
+    display: flex;
+}
